@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.theme-dark {
+    --background-primary: #111111;
+    --background-secondary: #111111;
+    --background-secondary-alt: #111111;
+    --background-tertiary: #111111;
+    --background-accent: #111111;
+    --scrollbar-auto-track: #111111;
+    --channeltextarea-background: #111111;
+}
+:root {
+    --bd-blue: #4fe045;
+    --bd-blue-hover: #459e3f;
+    --bd-blue-active: #4fe045;
+    --blurple: #4fe045;
+}
+
+.icon-27yU2q, .da-icon {
+    border-radius: 2px;
+}
+
+.topSectionPlaying-1J5E4n {
+    background-color: #4fe045;
+}
+
+.actionButton-3W1xZa, .da-actionButton, .button-38aScr, .da-button, .lookInverted-2D7oAl,  .colorBrand-3pXr91, .sizeSmall-2cSMqn, .grow-q77ONN da-grow{
+    color: #4fe045;
+}
+* {
+    font-family: 'Roboto', sans-serif, 'NotoEmoji Nerd Font Mono';
+}
+.wrapper-1BJsBx,.connectedAccount-36nQx7,.da-connectedAccount,.actionButton-3W1xZa,.da-actionButton,.button-38aScr,.da-button,.lookFilled-1Gx00P,.colorGreen-29iAKY,.sizeSmall-2cSMqn,.grow-q77ONN,.da-grow{
+    border-radius: 2px;
+}
